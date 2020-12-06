@@ -1,0 +1,5 @@
+[master]
+20.72.209.179 ansible_ssh_user=master-node ansible_ssh_pass=khan
+
+[worker]
+20.72.210.114 ansible_ssh_user=worker-node ansible_ssh_pass=khan
